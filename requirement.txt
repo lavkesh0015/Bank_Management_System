@@ -1,0 +1,6 @@
+Bank Management System Dependencies
+No external packages required.
+Uses Python standard libraries:
+tkinter
+sqlite3
+datetime
